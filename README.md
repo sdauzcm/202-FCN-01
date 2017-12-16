@@ -1,5 +1,9 @@
 ### Update
 
+这份的源码是：https://github.com/MarvinTeichmann/tensorflow-fcn
+根据作者原来的说明，这个训练是在另一个项目中，说明在后文
+
+
 An example on how to integrate this code into your own semantic segmentation pipeline can be found in my [KittiSeg](https://github.com/MarvinTeichmann/KittiSeg) project repository.
 
 # tensorflow-fcn
